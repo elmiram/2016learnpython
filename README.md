@@ -11,8 +11,8 @@
   </tr>
   <tr>
     <td>12.09.2016</td>
-    <td>(Выкачиваем Интернет - urllib.request)[2016learnpython/1 Семинар - urllib.ipynb]</td>
-    <td>(Скачать заголовки с сайта газеты)[]</td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/1%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20urllib.ipynb">Выкачиваем Интернет - urllib.request</a></td>
+    <td><a href="">Скачать заголовки статей с сайта газеты</a></td>
   </tr>
   <tr>
     <td>19.09.2016</td>
