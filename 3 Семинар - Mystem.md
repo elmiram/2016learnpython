@@ -65,7 +65,7 @@ import os
 inp = "input_texts"
 lst = os.listdir(inp)
 for fl in lst:
-    os.system(r"C:\mystem.exe " + inp + os.sep + fl + " output_texts" + os.sep + fl")
+    os.system(r"C:\mystem.exe " + inp + os.sep + fl + " output_texts" + os.sep + fl)
 ```
 
 Этот код берёт из директории *input_texts* все лежащие в ней файлы, отдаёт на разметку майстему и кладёт результат в соседнюю директорию *output_texts*.
