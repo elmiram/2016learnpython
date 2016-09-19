@@ -60,15 +60,13 @@ Mystem не требует специальной инсталляции в си
 
 Это нужно, чтобы, например, обработать много файлов циклом:
 
-`import os`
-
-`inp = "input_texts"`
-
-`lst = os.listdir(inp)`
-
-`for fl in lst:`
-
-    os.system(r"C:\mystem.exe_"_+_inp_+_os.sep_+_fl_+_"_output_texts"_+_os.sep_+_fl")`
+```python
+import os
+inp = "input_texts"
+lst = os.listdir(inp)
+for fl in lst:
+    os.system(r"C:\mystem.exe " + inp + os.sep + fl + " output_texts" + os.sep + fl")
+```
 
 Есть возможность запускать mystem и с помощью специального модуля, **pymystem3** (и некоторых других), который нужно специально установить (его нет в стандартной сборке питона). Это проще и удобнее, потому что с тем, что выдаёт mystem, можно сразу работать как с питоновскими структурами данных. Но медленнее. Иногда гораздо-гораздо медленнее, чем разметить один файл mystem'ом сразу.
 
