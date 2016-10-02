@@ -1,0 +1,156 @@
+{"text":"Сначала","analysis":[{"lex":"сначала","gr":"ADV="}]}
+{"text":", "}
+{"text":"по","analysis":[{"lex":"по","gr":"PR="}]}
+{"text":" "}
+{"text":"сведениям","analysis":[{"lex":"сведение","gr":"S,n,inan=dat,pl"}]}
+{"text":" «"}
+{"text":"Известий","analysis":[{"lex":"известие","gr":"S,n,inan=gen,pl"}]}
+{"text":"», "}
+{"text":"возник","analysis":[{"lex":"возникать","gr":"V,intr=praet,sg,indic,m,pf"}]}
+{"text":" "}
+{"text":"пожар","analysis":[{"lex":"пожар","gr":"S,m,inan=acc,sg"},{"lex":"пожар","gr":"S,m,inan=nom,sg"}]}
+{"text":". "}
+{"text":"\\s"}
+{"text":"К","analysis":[{"lex":"к","gr":"PR="}]}
+{"text":" "}
+{"text":"месту","analysis":[{"lex":"место","gr":"S,n,inan=dat,sg"}]}
+{"text":" "}
+{"text":"происшествия","analysis":[{"lex":"происшествие","gr":"S,n,inan=acc,pl"},{"lex":"происшествие","gr":"S,n,inan=gen,sg"},{"lex":"происшествие","gr":"S,n,inan=nom,pl"}]}
+{"text":" "}
+{"text":"оперативно","analysis":[{"lex":"оперативно","gr":"ADV="}]}
+{"text":" "}
+{"text":"прибыли","analysis":[{"lex":"прибывать","gr":"V,intr=praet,pl,indic,pf"}]}
+{"text":" "}
+{"text":"около","analysis":[{"lex":"около","gr":"PR="}]}
+{"text":" "}
+{"text":"10"}
+{"text":" "}
+{"text":"пожарных","analysis":[{"lex":"пожарный","gr":"S,m,anim=abl,pl"},{"lex":"пожарный","gr":"S,m,anim=acc,pl"},{"lex":"пожарный","gr":"S,m,anim=gen,pl"}]}
+{"text":" "}
+{"text":"машин","analysis":[{"lex":"машина","gr":"S,f,inan=gen,pl"}]}
+{"text":", "}
+{"text":"но","analysis":[{"lex":"но","gr":"CONJ="}]}
+{"text":" "}
+{"text":"только","analysis":[{"lex":"только","gr":"PART="}]}
+{"text":" "}
+{"text":"они","analysis":[{"lex":"они","gr":"SPRO,pl=nom"}]}
+{"text":" "}
+{"text":"приступили","analysis":[{"lex":"приступать","gr":"V,intr=praet,pl,indic,pf"}]}
+{"text":" "}
+{"text":"к","analysis":[{"lex":"к","gr":"PR="}]}
+{"text":" "}
+{"text":"работе","analysis":[{"lex":"работа","gr":"S,f,inan=abl,sg"},{"lex":"работа","gr":"S,f,inan=dat,sg"}]}
+{"text":", "}
+{"text":"как","analysis":[{"lex":"как","gr":"CONJ="}]}
+{"text":" "}
+{"text":"начали","analysis":[{"lex":"начинать","gr":"V,tran=praet,pl,indic,pf"}]}
+{"text":" "}
+{"text":"рваться","analysis":[{"lex":"рваться","gr":"V,ipf,intr=inf"}]}
+{"text":" "}
+{"text":"снаряды","analysis":[{"lex":"снаряд","gr":"S,m,inan=acc,pl"},{"lex":"снаряд","gr":"S,m,inan=nom,pl"}]}
+{"text":" "}
+{"text":"и","analysis":[{"lex":"и","gr":"CONJ="}]}
+{"text":" "}
+{"text":"пожарных","analysis":[{"lex":"пожарный","gr":"S,m,anim=abl,pl"},{"lex":"пожарный","gr":"S,m,anim=acc,pl"},{"lex":"пожарный","gr":"S,m,anim=gen,pl"}]}
+{"text":" "}
+{"text":"срочно","analysis":[{"lex":"срочно","gr":"ADV="}]}
+{"text":" "}
+{"text":"отозвали","analysis":[{"lex":"отзывать","gr":"V,tran=praet,pl,indic,pf"}]}
+{"text":". "}
+{"text":"\\s"}
+{"text":"Официально","analysis":[{"lex":"официально","gr":"ADV="}]}
+{"text":" "}
+{"text":"о","analysis":[{"lex":"о","gr":"PR="}]}
+{"text":" "}
+{"text":"причинах","analysis":[{"lex":"причина","gr":"S,f,inan=abl,pl"}]}
+{"text":" "}
+{"text":"происшествия","analysis":[{"lex":"происшествие","gr":"S,n,inan=acc,pl"},{"lex":"происшествие","gr":"S,n,inan=gen,sg"},{"lex":"происшествие","gr":"S,n,inan=nom,pl"}]}
+{"text":" "}
+{"text":"военные","analysis":[{"lex":"военный","gr":"A=acc,pl,plen,inan"},{"lex":"военный","gr":"A=nom,pl,plen"}]}
+{"text":" "}
+{"text":"пока","analysis":[{"lex":"пока","gr":"CONJ="}]}
+{"text":" "}
+{"text":"молчат","analysis":[{"lex":"молчать","gr":"V,ipf,intr=inpraes,pl,indic,3p"}]}
+{"text":". "}
+{"text":"\\s"}
+{"text":"Как","analysis":[{"lex":"как","gr":"ADVPRO="}]}
+{"text":" "}
+{"text":"удалось","analysis":[{"lex":"удаваться","gr":"V,intr=praet,sg,indic,n,pf"}]}
+{"text":" "}
+{"text":"выяснить","analysis":[{"lex":"выяснивать","gr":"V=inf,pf"}]}
+{"text":" «"}
+{"text":"Известиям","analysis":[{"lex":"известие","gr":"S,n,inan=dat,pl"}]}
+{"text":"», "}
+{"text":"саперы","analysis":[{"lex":"сапер","gr":"S,m,anim=nom,pl"}]}
+{"text":" "}
+{"text":"проводили","analysis":[{"lex":"проводить","gr":"V=praet,pl,indic,ipf,tran"}]}
+{"text":" "}
+{"text":"штатную","analysis":[{"lex":"штатный","gr":"A=acc,sg,plen,f"}]}
+{"text":" "}
+{"text":"работу","analysis":[{"lex":"работа","gr":"S,f,inan=acc,sg"}]}
+{"text":" "}
+{"text":"по","analysis":[{"lex":"по","gr":"PR="}]}
+{"text":" "}
+{"text":"подрыву","analysis":[{"lex":"подрыв","gr":"S,m,inan=dat,sg"}]}
+{"text":" "}
+{"text":"неразорвавшихся","analysis":[{"lex":"неразорвавшийся","gr":"A,plen=abl,pl"},{"lex":"неразорвавшийся","gr":"A,plen=gen,pl"},{"lex":"неразорвавшийся","gr":"A,plen=acc,pl,anim"}]}
+{"text":" "}
+{"text":"боеприпасов","analysis":[{"lex":"боеприпас","gr":"S,m,inan=gen,pl"}]}
+{"text":", "}
+{"text":"находящихся","analysis":[{"lex":"находиться","gr":"V,intr=inpraes,abl,pl,partcp,plen,ipf,act"},{"lex":"находиться","gr":"V,intr=inpraes,gen,pl,partcp,plen,ipf,act"},{"lex":"находиться","gr":"V,intr=inpraes,acc,pl,partcp,plen,ipf,act,anim"}]}
+{"text":" "}
+{"text":"в","analysis":[{"lex":"в","gr":"PR="}]}
+{"text":" "}
+{"text":"данном","analysis":[{"lex":"данный","gr":"A,plen=abl,sg,m"},{"lex":"данный","gr":"A,plen=abl,sg,n"}]}
+{"text":" "}
+{"text":"районе","analysis":[{"lex":"район","gr":"S,m,inan=abl,sg"}]}
+{"text":". "}
+{"text":"\\s"}
+{"text":"Всего","analysis":[{"lex":"всего","gr":"PART="}]}
+{"text":" "}
+{"text":"этих","analysis":[{"lex":"этот","gr":"APRO=abl,pl"},{"lex":"этот","gr":"APRO=gen,pl"},{"lex":"этот","gr":"APRO=acc,pl,anim"}]}
+{"text":" "}
+{"text":"снарядов","analysis":[{"lex":"снаряд","gr":"S,m,inan=gen,pl"}]}
+{"text":" "}
+{"text":"было","analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,n,ipf"}]}
+{"text":" "}
+{"text":"три","analysis":[{"lex":"три","gr":"NUM=nom"},{"lex":"три","gr":"NUM=acc,inan"}]}
+{"text":" "}
+{"text":"с","analysis":[{"lex":"с","gr":"PR="}]}
+{"text":" "}
+{"text":"половиной","analysis":[{"lex":"половина","gr":"S,f,inan=ins,sg"}]}
+{"text":" "}
+{"text":"тысячи","analysis":[{"lex":"тысяча","gr":"S,f,inan=acc,pl"},{"lex":"тысяча","gr":"S,f,inan=gen,sg"},{"lex":"тысяча","gr":"S,f,inan=nom,pl"}]}
+{"text":". "}
+{"text":"\\s"}
+{"text":"Их","analysis":[{"lex":"их","gr":"APRO=abl,pl"},{"lex":"их","gr":"APRO=dat,pl"},{"lex":"их","gr":"APRO=gen,pl"},{"lex":"их","gr":"APRO=ins,pl"},{"lex":"их","gr":"APRO=nom,pl"},{"lex":"их","gr":"APRO=nom,sg,f"},{"lex":"их","gr":"APRO=acc,sg,m,anim"},{"lex":"их","gr":"APRO=gen,sg,m"},{"lex":"их","gr":"APRO=gen,sg,n"},{"lex":"их","gr":"APRO=acc,sg,n"},{"lex":"их","gr":"APRO=nom,sg,n"},{"lex":"их","gr":"APRO=abl,sg,f"},{"lex":"их","gr":"APRO=dat,sg,f"},{"lex":"их","gr":"APRO=gen,sg,f"},{"lex":"их","gr":"APRO=ins,sg,f"},{"lex":"их","gr":"APRO=abl,sg,m"},{"lex":"их","gr":"APRO=abl,sg,n"},{"lex":"их","gr":"APRO=dat,sg,m"},{"lex":"их","gr":"APRO=dat,sg,n"},{"lex":"их","gr":"APRO=acc,sg,f"},{"lex":"их","gr":"APRO=acc,pl,inan"},{"lex":"их","gr":"APRO=acc,sg,m,inan"},{"lex":"их","gr":"APRO=nom,sg,m"},{"lex":"их","gr":"APRO=ins,sg,m"},{"lex":"их","gr":"APRO=ins,sg,n"},{"lex":"их","gr":"APRO=acc,pl,anim"},{"lex":"их","gr":"APRO=abl,pl,n"},{"lex":"их","gr":"APRO=acc,pl,n"},{"lex":"их","gr":"APRO=dat,pl,n"},{"lex":"их","gr":"APRO=gen,pl,n"},{"lex":"их","gr":"APRO=ins,pl,n"},{"lex":"их","gr":"APRO=nom,pl,n"},{"lex":"их","gr":"APRO=abl,pl,m"},{"lex":"их","gr":"APRO=acc,pl,m"},{"lex":"их","gr":"APRO=acc,sg,m"},{"lex":"их","gr":"APRO=dat,pl,m"}]}
+{"text":" "}
+{"text":"осколки","analysis":[{"lex":"осколок","gr":"S,m,inan=acc,pl"},{"lex":"осколок","gr":"S,m,inan=nom,pl"}]}
+{"text":" "}
+{"text":"попали","analysis":[{"lex":"попадать","gr":"V,intr=praet,pl,indic,pf"}]}
+{"text":" "}
+{"text":"на","analysis":[{"lex":"на","gr":"PR="}]}
+{"text":" "}
+{"text":"другую","analysis":[{"lex":"другой","gr":"APRO=acc,sg,f"}]}
+{"text":" "}
+{"text":"площадку","analysis":[{"lex":"площадка","gr":"S,f,inan=acc,sg"}]}
+{"text":" "}
+{"text":"для","analysis":[{"lex":"для","gr":"PR="}]}
+{"text":" "}
+{"text":"хранения","analysis":[{"lex":"хранение","gr":"S,n,inan=acc,pl"},{"lex":"хранение","gr":"S,n,inan=gen,sg"},{"lex":"хранение","gr":"S,n,inan=nom,pl"}]}
+{"text":", "}
+{"text":"где","analysis":[{"lex":"где","gr":"ADVPRO="}]}
+{"text":" "}
+{"text":"находилось","analysis":[{"lex":"находиться","gr":"V,intr=praet,sg,indic,n,ipf"}]}
+{"text":" "}
+{"text":"еще","analysis":[{"lex":"еще","gr":"ADV="}]}
+{"text":" "}
+{"text":"около","analysis":[{"lex":"около","gr":"ADV="}]}
+{"text":" "}
+{"text":"5"}
+{"text":" "}
+{"text":"тысяч","analysis":[{"lex":"тысяча","gr":"S,f,inan=gen,pl"}]}
+{"text":" "}
+{"text":"боеприпасов","analysis":[{"lex":"боеприпас","gr":"S,m,inan=gen,pl"}]}
+{"text":"."}
+{"text":"\n"}
