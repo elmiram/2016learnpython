@@ -43,10 +43,17 @@
   </tr>
   <tr>
     <td>03.10.2016</td>
-    <td><a href="">Запросы и формы</a></td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/6%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%20%D1%84%D0%BE%D1%80%D0%BC%D1%8B.ipynb">Запросы и формы</a></td>
     <td> </td>
     <td> </td>
   </tr>
+  <tr>
+    <td>10.10.2016</td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/7%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20flask%20intro.ipynb">flask intro</a></td>
+    <td> </td>
+    <td> </td>
+  </tr>
+
 
 
 </table>
