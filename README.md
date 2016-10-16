@@ -53,6 +53,12 @@
     <td> </td>
     <td> </td>
   </tr>
+  <tr>
+    <td>17.10.2016</td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/8%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20%D0%A1%D0%BD%D0%BE%D0%B2%D0%B0%20flask.ipynb">flask продолжение</a></td>
+    <td> </td>
+    <td> </td>
+  </tr>
 
 
 
