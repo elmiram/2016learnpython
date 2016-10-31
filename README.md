@@ -62,8 +62,8 @@
   <tr>
     <td>31.10.2016</td>
     <td><a href="https://github.com/elmiram/2016learnpython/blob/master/9-10%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0.md">Про проект №2</a></td>
-    <td>см. конспект</td>
-    <td>дедлайн - 14.11</td>
+    <td>см. конспект<br>дедлайн - 14.11.2016</td>
+    <td></td>
   </tr>
 
 
