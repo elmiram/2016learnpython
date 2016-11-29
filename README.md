@@ -66,6 +66,11 @@
     <td></td>
   </tr>
 
-
+  <tr>
+    <td>28.11.2016</td>
+    <td> Просто множества. Coming soon</td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/12%20%D0%94%D0%97.md">Найти характеризующие новостной сюжет словоформы</a><br>дедлайн 6.12.2016</td>
+    <td></td>
+  </tr>
 
 </table>
