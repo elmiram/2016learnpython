@@ -68,7 +68,7 @@
 
   <tr>
     <td>28.11.2016</td>
-    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/12_%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE_%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0.ipynb"> Просто множества</a> </td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/12%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0.ipynb"> Просто множества</a> </td>
     <td><a href="https://github.com/elmiram/2016learnpython/blob/master/12%20%D0%94%D0%97.md">Найти характеризующие новостной сюжет словоформы</a><br>дедлайн 6.12.2016</td>
     <td></td>
   </tr>
