@@ -30,6 +30,6 @@
 `C:\Python35\Scripts\pip.exe install С:\lxml-3.5.0-cp35-....whl`
 
 # Mac или Linux
-- написать в терминале `sudo pip install lxml` (и скорее всего потом ввести пароль от своего компа)
+- написать в терминале `sudo pip3 install lxml` (и скорее всего потом ввести пароль от своего компа)
 
 Если не заработало, то нужно сделать как написано вот тут: http://lxml.de/build.html#building-lxml-on-macos-x 
