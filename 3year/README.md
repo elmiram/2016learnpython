@@ -41,7 +41,8 @@
     <td>
 </td>
   </tr>
-  <tr><td colspan="7">Дополнительно: <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/HOW%20TO%20install%20lxml.md">Как установить lxml</a></td></tr>
+  <tr><td colspan="7">Дополнительно:<br>  <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/HOW%20TO%20install%20lxml.md">Как установить lxml</a><br>
+  <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/Git%20most%20used%20commands.md">Часто используемые команды git</a> - объяснения добавлю позже</td></tr>
   <tr>
     <td>23.янв</td>
     <td></td>
