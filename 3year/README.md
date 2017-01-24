@@ -60,7 +60,7 @@
     <td></td>
     <td>09.00</td>
     <td>3 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/2%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20lxml.ipynb">lxml + xpath</a></td>
-    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/3year/2%20%D0%94%D0%97.md">30 янв</a>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/3year/2%20%D0%94%D0%97.md">31 янв</a>
 </td>
   </tr>
   <tr>
