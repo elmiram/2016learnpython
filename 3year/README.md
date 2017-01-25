@@ -49,17 +49,17 @@
     <td></td>
     <td></td>
     <td>16.40</td>
-    <td>2 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/2%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20lxml.ipynb">lxml + xpath</a> | <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/3%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20GIT.md">git</a></td>
+    <td>2 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/2%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20lxml.ipynb">lxml + xpath</a></td>
     <td>
 </td>
   </tr>
   <tr>
     <td>24.янв</td>
     <td>16.40</td>
-    <td>4</td>
-    <td></td>
+    <td>4 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/4%20Stacks%26Queues.md">Стеки и очереди</a></td>
+    <td>31 янв </td>
     <td>09.00</td>
-    <td>3 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/2%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20lxml.ipynb">lxml + xpath</a></td>
+    <td>3 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/2%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20lxml.ipynb">lxml + xpath</a> | <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/3%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20GIT.md">git</a></td>
     <td><a href="https://github.com/elmiram/2016learnpython/blob/master/3year/2%20%D0%94%D0%97.md">31 янв</a>
 </td>
   </tr>
@@ -79,8 +79,8 @@
     <td>6</td>
     <td></td>
     <td>16.40</td>
-    <td>4</td>
-    <td>
+    <td>4 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/4%20Stacks%26Queues.md">Стеки и очереди</a></td>
+    <td> 7 фев
 </td>
   </tr>
   <tr>
