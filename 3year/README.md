@@ -66,8 +66,8 @@
   <tr>
     <td>30.янв</td>
     <td>16.40</td>
-    <td>5</td>
-    <td></td>
+    <td>5 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/5.Linked%20list.md">Связные списки</a></td>
+    <td> 14 фев</td>
     <td></td>
     <td></td>
     <td>
@@ -77,7 +77,7 @@
     <td>31.янв</td>
     <td>09.00</td>
     <td>6</td>
-    <td></td>
+    <td>14 фев</td>
     <td>16.40</td>
     <td>4 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/4%20Stacks%26Queues.md">Стеки и очереди</a></td>
     <td> 7 фев
@@ -89,8 +89,8 @@
     <td></td>
     <td></td>
     <td>16.40</td>
-    <td>5</td>
-    <td>
+    <td>5 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/5.Linked%20list.md">Связные списки</a></td>
+    <td> 21 фев
 </td>
   </tr>
   <tr>
