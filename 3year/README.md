@@ -62,20 +62,10 @@
     <td><a href="https://github.com/elmiram/2016learnpython/blob/master/3year/2%20%D0%94%D0%97.md">31 янв</a>
 </td>
   </tr>
-  <tr>
-    <td>31.янв ВТ</td>
-    <td>09.00</td>
-    <td>5 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/5.Linked%20list.md">Связные списки</a></td>
-    <td>14 фев</td>
-    <td>16.40</td>
-    <td>4 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/4%20Stacks%26Queues.md">Стеки и очереди</a></td>
-    <td> 7 фев
-</td>
-  </tr>
     <tr>
     <td>03.фев ПТ</td>
     <td>10.30</td>
-    <td>6 </td>
+    <td>5 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/5.Linked%20list.md">Связные списки</a></td>
     <td> 14 фев</td>
     <td></td>
     <td></td>
@@ -87,7 +77,7 @@
     <td></td>
     <td></td>
     <td>16.40</td>
-    <td>5 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/5.Linked%20list.md">Связные списки</a></td>
+    <td>4 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/5.Linked%20list.md">Связные списки</a></td>
     <td> 21 фев
 </td>
   </tr>
