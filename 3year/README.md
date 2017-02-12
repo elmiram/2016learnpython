@@ -76,7 +76,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td>16.40</td>
+    <td>09.00</td>
     <td>4 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/5.Linked%20list.md">Связные списки</a></td>
     <td> 21 фев
 </td>
