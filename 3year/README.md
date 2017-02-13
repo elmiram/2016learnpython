@@ -77,17 +77,21 @@
     <td></td>
     <td></td>
     <td>09.00</td>
-    <td>4 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/5.Linked%20list.md">Связные списки</a></td>
-    <td> 21 фев
+    <td>4 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/5.Linked%20list.md">Связные списки</a>,  <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/4%20Stacks%26Queues.md">Стеки и очереди</a></td>
+    <td> оба дз на 21 фев
 </td>
+  </tr>
+  <tr><td colspan="7">Что будет на контрольной:<br> 
+  задание про классы и lxml (как в ДЗ№2), <br> бонусное задание про какую-то из структур данных (стек, очередь, связный список)<br> 
+  *(бонусное задание улучшает оценку, если вы плохо сделали обязательное задание, но само не является обязательным)
   </tr>
   <tr>
     <td>14.фев ВТ</td>
     <td>09.00</td>
     <td>6 Контрольная</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>16.40</td>
+    <td>5 Контрольная</td>
     <td>
 </td>
   </tr>
