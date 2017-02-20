@@ -1,0 +1,721 @@
+{"analysis":[],"text":"Python"}
+{"text":" — "}
+{"analysis":[{"lex":"высокоуровневый","gr":"A,plen=acc,sg,m,inan"},{"lex":"высокоуровневый","gr":"A,plen=nom,sg,m"}],"text":"высокоуровневый"}
+{"text":" "}
+{"analysis":[{"lex":"язык","gr":"S,m,inan=acc,sg"},{"lex":"язык","gr":"S,m,inan=nom,sg"}],"text":"язык"}
+{"text":" "}
+{"analysis":[{"lex":"программирование","gr":"S,n,inan=acc,pl"},{"lex":"программирование","gr":"S,n,inan=gen,sg"},{"lex":"программирование","gr":"S,n,inan=nom,pl"}],"text":"программирования"}
+{"text":" "}
+{"analysis":[{"lex":"общий","gr":"A=acc,sg,plen,m,anim"},{"lex":"общий","gr":"A=gen,sg,plen,m"},{"lex":"общий","gr":"A=gen,sg,plen,n"}],"text":"общего"}
+{"text":" "}
+{"analysis":[{"lex":"назначение","gr":"S,n,inan=acc,pl"},{"lex":"назначение","gr":"S,n,inan=gen,sg"},{"lex":"назначение","gr":"S,n,inan=nom,pl"}],"text":"назначения"}
+{"text":", "}
+{"analysis":[{"lex":"ориентировать","gr":"V,tran=praet,acc,sg,partcp,plen,m,ipf,pass,inan"},{"lex":"ориентировать","gr":"V,tran=praet,acc,sg,partcp,plen,m,pf,pass,inan"},{"lex":"ориентировать","gr":"V,tran=praet,nom,sg,partcp,plen,m,ipf,pass"},{"lex":"ориентировать","gr":"V,tran=praet,nom,sg,partcp,plen,m,pf,pass"}],"text":"ориентированный"}
+{"text":" "}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"text":" "}
+{"analysis":[{"lex":"повышение","gr":"S,n,inan=acc,sg"},{"lex":"повышение","gr":"S,n,inan=nom,sg"}],"text":"повышение"}
+{"text":" "}
+{"analysis":[{"lex":"производительность","gr":"S,f,inan=abl,sg"},{"lex":"производительность","gr":"S,f,inan=acc,pl"},{"lex":"производительность","gr":"S,f,inan=dat,sg"},{"lex":"производительность","gr":"S,f,inan=gen,sg"},{"lex":"производительность","gr":"S,f,inan=nom,pl"}],"text":"производительности"}
+{"text":" "}
+{"analysis":[{"lex":"разработчик","gr":"S,m,anim=acc,sg"},{"lex":"разработчик","gr":"S,m,anim=gen,sg"}],"text":"разработчика"}
+{"text":" "}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"text":" "}
+{"analysis":[{"lex":"читаемость","gr":"S,f,inan=abl,sg"},{"lex":"читаемость","gr":"S,f,inan=acc,pl"},{"lex":"читаемость","gr":"S,f,inan=dat,sg"},{"lex":"читаемость","gr":"S,f,inan=gen,sg"},{"lex":"читаемость","gr":"S,f,inan=nom,pl"}],"text":"читаемости"}
+{"text":" "}
+{"analysis":[{"lex":"код","gr":"S,m,inan=gen,sg"}],"text":"кода"}
+{"text":". "}
+{"text":"\\s"}
+{"analysis":[{"lex":"синтаксис","gr":"S,m,inan=acc,sg"},{"lex":"синтаксис","gr":"S,m,inan=nom,sg"}],"text":"Синтаксис"}
+{"text":" "}
+{"analysis":[{"lex":"ядро","gr":"S,n,inan=acc,pl"},{"lex":"ядро","gr":"S,n,inan=gen,sg"},{"lex":"ядро","gr":"S,n,inan=nom,pl"}],"text":"ядра"}
+{"text":" "}
+{"analysis":[],"text":"Python"}
+{"text":" "}
+{"analysis":[{"lex":"минималистичный","qual":"bastard","gr":"A=sg,brev,m"}],"text":"минималистичен"}
+{"text":". "}
+{"text":"\\s"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"В"}
+{"text":" "}
+{"analysis":[{"lex":"тот","gr":"APRO=acc,sg,n"},{"lex":"тот","gr":"APRO=nom,sg,n"}],"text":"то"}
+{"text":" "}
+{"analysis":[{"lex":"же","gr":"PART="}],"text":"же"}
+{"text":" "}
+{"analysis":[{"lex":"время","gr":"S,n,inan=acc,sg"},{"lex":"время","gr":"S,n,inan=nom,sg"}],"text":"время"}
+{"text":" "}
+{"analysis":[{"lex":"стандартный","gr":"A=nom,sg,plen,f"}],"text":"стандартная"}
+{"text":" "}
+{"analysis":[{"lex":"библиотека","gr":"S,f,inan=nom,sg"}],"text":"библиотека"}
+{"text":" "}
+{"analysis":[{"lex":"включать","gr":"V,tran=inpraes,sg,indic,3p,ipf"}],"text":"включает"}
+{"text":" "}
+{"analysis":[{"lex":"большой","gr":"A=acc,sg,plen,m,inan"},{"lex":"большой","gr":"A=nom,sg,plen,m"},{"lex":"большой","gr":"A=abl,sg,plen,f"},{"lex":"большой","gr":"A=dat,sg,plen,f"},{"lex":"большой","gr":"A=gen,sg,plen,f"},{"lex":"большой","gr":"A=ins,sg,plen,f"}],"text":"большой"}
+{"text":" "}
+{"analysis":[{"lex":"объем","gr":"S,m,inan=acc,sg"},{"lex":"объем","gr":"S,m,inan=nom,sg"}],"text":"объём"}
+{"text":" "}
+{"analysis":[{"lex":"полезный","gr":"A=abl,pl,plen"},{"lex":"полезный","gr":"A=acc,pl,plen,anim"},{"lex":"полезный","gr":"A=gen,pl,plen"}],"text":"полезных"}
+{"text":" "}
+{"analysis":[{"lex":"функция","gr":"S,f,inan=gen,pl"}],"text":"функций"}
+{"text":"."}
+{"text":"\n"}
+{"text":"\n"}
+{"analysis":[],"text":"Python"}
+{"text":" "}
+{"analysis":[{"lex":"поддерживать","gr":"V,tran=inpraes,sg,indic,3p,ipf"}],"text":"поддерживает"}
+{"text":" "}
+{"analysis":[{"lex":"несколько","gr":"NUM="},{"lex":"несколько","gr":"NUM=nom"},{"lex":"несколько","gr":"NUM=acc,inan"}],"text":"несколько"}
+{"text":" "}
+{"analysis":[{"lex":"парадигма","gr":"S,f,inan=gen,pl"}],"text":"парадигм"}
+{"text":" "}
+{"analysis":[{"lex":"программирование","gr":"S,n,inan=acc,pl"},{"lex":"программирование","gr":"S,n,inan=gen,sg"},{"lex":"программирование","gr":"S,n,inan=nom,pl"}],"text":"программирования"}
+{"text":", "}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"text":" "}
+{"analysis":[{"lex":"тот","gr":"APRO=abl,sg,m"},{"lex":"тот","gr":"APRO=abl,sg,n"}],"text":"том"}
+{"text":" "}
+{"analysis":[{"lex":"число","gr":"S,n,inan=abl,sg"}],"text":"числе"}
+{"text":" "}
+{"analysis":[{"lex":"структурный","gr":"A=acc,sg,plen,n"},{"lex":"структурный","gr":"A=nom,sg,plen,n"}],"text":"структурное"}
+{"text":", "}
+{"analysis":[{"lex":"объектно-ориентированный","gr":"A,plen=acc,sg,n"},{"lex":"объектно-ориентированный","gr":"A,plen=nom,sg,n"}],"text":"объектно-ориентированное"}
+{"text":", "}
+{"analysis":[{"lex":"функциональный","gr":"A=acc,sg,plen,n"},{"lex":"функциональный","gr":"A=nom,sg,plen,n"}],"text":"функциональное"}
+{"text":", "}
+{"analysis":[{"lex":"императивный","gr":"A=acc,sg,plen,n"},{"lex":"императивный","gr":"A=nom,sg,plen,n"}],"text":"императивное"}
+{"text":" "}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"text":" "}
+{"analysis":[{"lex":"аспектно","qual":"bastard","gr":"ADV="}],"text":"аспектно"}
+{"text":"-"}
+{"analysis":[{"lex":"ориентировать","gr":"V,tran=praet,acc,sg,partcp,plen,n,ipf,pass"},{"lex":"ориентировать","gr":"V,tran=praet,acc,sg,partcp,plen,n,pf,pass"},{"lex":"ориентировать","gr":"V,tran=praet,nom,sg,partcp,plen,n,ipf,pass"},{"lex":"ориентировать","gr":"V,tran=praet,nom,sg,partcp,plen,n,pf,pass"}],"text":"ориентированное"}
+{"text":". "}
+{"text":"\\s"}
+{"analysis":[{"lex":"основной","gr":"A=acc,pl,plen,inan"},{"lex":"основной","gr":"A=nom,pl,plen"}],"text":"Основные"}
+{"text":" "}
+{"analysis":[{"lex":"архитектурный","gr":"A=acc,pl,plen,inan"},{"lex":"архитектурный","gr":"A=nom,pl,plen"}],"text":"архитектурные"}
+{"text":" "}
+{"analysis":[{"lex":"черта","gr":"S,f,inan=acc,pl"},{"lex":"черта","gr":"S,f,inan=gen,sg"},{"lex":"черта","gr":"S,f,inan=nom,pl"}],"text":"черты"}
+{"text":" — "}
+{"analysis":[{"lex":"динамический","gr":"A=nom,sg,plen,f"}],"text":"динамическая"}
+{"text":" "}
+{"analysis":[{"lex":"типизация","gr":"S,f,inan=nom,sg"}],"text":"типизация"}
+{"text":", "}
+{"analysis":[{"lex":"автоматический","gr":"A=acc,sg,plen,n"},{"lex":"автоматический","gr":"A=nom,sg,plen,n"}],"text":"автоматическое"}
+{"text":" "}
+{"analysis":[{"lex":"управление","gr":"S,n,inan=acc,sg"},{"lex":"управление","gr":"S,n,inan=nom,sg"}],"text":"управление"}
+{"text":" "}
+{"analysis":[{"lex":"память","gr":"S,f,inan=ins,sg"}],"text":"памятью"}
+{"text":", "}
+{"analysis":[{"lex":"полный","gr":"A=nom,sg,plen,f"}],"text":"полная"}
+{"text":" "}
+{"analysis":[{"lex":"интроспекция","gr":"S,f,inan=nom,sg"}],"text":"интроспекция"}
+{"text":", "}
+{"analysis":[{"lex":"механизм","gr":"S,m,inan=acc,sg"},{"lex":"механизм","gr":"S,m,inan=nom,sg"}],"text":"механизм"}
+{"text":" "}
+{"analysis":[{"lex":"обработка","gr":"S,f,inan=acc,pl"},{"lex":"обработка","gr":"S,f,inan=gen,sg"},{"lex":"обработка","gr":"S,f,inan=nom,pl"}],"text":"обработки"}
+{"text":" "}
+{"analysis":[{"lex":"исключение","gr":"S,n,inan=gen,pl"}],"text":"исключений"}
+{"text":", "}
+{"analysis":[{"lex":"поддержка","gr":"S,f,inan=nom,sg"}],"text":"поддержка"}
+{"text":" "}
+{"analysis":[{"lex":"многопоточный","gr":"A,plen=abl,pl"},{"lex":"многопоточный","gr":"A,plen=gen,pl"},{"lex":"многопоточный","gr":"A,plen=acc,pl,anim"}],"text":"многопоточных"}
+{"text":" "}
+{"analysis":[{"lex":"вычисление","gr":"S,n,inan=gen,pl"}],"text":"вычислений"}
+{"text":" "}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"text":" "}
+{"analysis":[{"lex":"удобный","gr":"A=acc,pl,plen,inan"},{"lex":"удобный","gr":"A=nom,pl,plen"}],"text":"удобные"}
+{"text":" "}
+{"analysis":[{"lex":"высокоуровневый","gr":"A,plen=nom,pl"},{"lex":"высокоуровневый","gr":"A,plen=acc,pl,inan"}],"text":"высокоуровневые"}
+{"text":" "}
+{"analysis":[{"lex":"структура","gr":"S,f,inan=acc,pl"},{"lex":"структура","gr":"S,f,inan=gen,sg"},{"lex":"структура","gr":"S,f,inan=nom,pl"}],"text":"структуры"}
+{"text":" "}
+{"analysis":[{"lex":"данные","gr":"S,pl,inan=abl"},{"lex":"данные","gr":"S,pl,inan=gen"}],"text":"данных"}
+{"text":". "}
+{"text":"\\s"}
+{"analysis":[{"lex":"код","gr":"S,m,inan=acc,sg"},{"lex":"код","gr":"S,m,inan=nom,sg"}],"text":"Код"}
+{"text":" "}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"text":" "}
+{"analysis":[],"text":"Python"}
+{"text":" "}
+{"analysis":[{"lex":"организовываться","gr":"V,intr=inpraes,sg,indic,3p,ipf"}],"text":"организовывается"}
+{"text":" "}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"text":" "}
+{"analysis":[{"lex":"функция","gr":"S,f,inan=abl,sg"},{"lex":"функция","gr":"S,f,inan=acc,pl"},{"lex":"функция","gr":"S,f,inan=dat,sg"},{"lex":"функция","gr":"S,f,inan=gen,sg"},{"lex":"функция","gr":"S,f,inan=nom,pl"}],"text":"функции"}
+{"text":" "}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"text":" "}
+{"analysis":[{"lex":"класс","gr":"S,m,inan=acc,pl"},{"lex":"класс","gr":"S,m,inan=nom,pl"}],"text":"классы"}
+{"text":", "}
+{"analysis":[{"lex":"который","gr":"APRO=nom,pl"},{"lex":"который","gr":"APRO=acc,pl,inan"}],"text":"которые"}
+{"text":" "}
+{"analysis":[{"lex":"мочь","gr":"V,ipf,intr=inpraes,pl,indic,3p"}],"text":"могут"}
+{"text":" "}
+{"analysis":[{"lex":"объединяться","gr":"V,intr=inf,ipf"}],"text":"объединяться"}
+{"text":" "}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"text":" "}
+{"analysis":[{"lex":"модуль","gr":"S,m,inan=acc,pl"},{"lex":"модуль","gr":"S,m,inan=nom,pl"}],"text":"модули"}
+{"text":" ("}
+{"analysis":[{"lex":"они","gr":"SPRO,pl=nom"}],"text":"они"}
+{"text":" "}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"text":" "}
+{"analysis":[{"lex":"свой","gr":"APRO=acc,sg,f"}],"text":"свою"}
+{"text":" "}
+{"analysis":[{"lex":"очередь","gr":"S,f,inan=acc,sg"},{"lex":"очередь","gr":"S,f,inan=nom,sg"}],"text":"очередь"}
+{"text":" "}
+{"analysis":[{"lex":"мочь","gr":"V,ipf,intr=inpraes,pl,indic,3p"}],"text":"могут"}
+{"text":" "}
+{"analysis":[{"lex":"быть","gr":"V,intr=inf,ipf"}],"text":"быть"}
+{"text":" "}
+{"analysis":[{"lex":"объединять","gr":"V,tran=praet,pl,partcp,brev,pf,pass"}],"text":"объединены"}
+{"text":" "}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"text":" "}
+{"analysis":[{"lex":"пакет","gr":"S,m,inan=acc,pl"},{"lex":"пакет","gr":"S,m,inan=nom,pl"}],"text":"пакеты"}
+{"text":")"}
+{"text":"."}
+{"text":"\n"}
+{"text":"\n"}
+{"analysis":[{"lex":"эталонный","gr":"A=abl,sg,plen,f"},{"lex":"эталонный","gr":"A=dat,sg,plen,f"},{"lex":"эталонный","gr":"A=gen,sg,plen,f"},{"lex":"эталонный","gr":"A=ins,sg,plen,f"}],"text":"Эталонной"}
+{"text":" "}
+{"analysis":[{"lex":"реализация","gr":"S,f,inan=ins,sg"}],"text":"реализацией"}
+{"text":" "}
+{"analysis":[],"text":"Python"}
+{"text":" "}
+{"analysis":[{"lex":"являться","gr":"V,intr=inpraes,sg,indic,3p,ipf"}],"text":"является"}
+{"text":" "}
+{"analysis":[{"lex":"интерпретатор","gr":"S,m,inan=acc,sg"},{"lex":"интерпретатор","gr":"S,m,inan=nom,sg"}],"text":"интерпретатор"}
+{"text":" "}
+{"analysis":[],"text":"CPython"}
+{"text":", "}
+{"analysis":[{"lex":"поддерживать","gr":"V,tran=inpraes,acc,sg,partcp,plen,m,ipf,act,inan"},{"lex":"поддерживать","gr":"V,tran=inpraes,nom,sg,partcp,plen,m,ipf,act"}],"text":"поддерживающий"}
+{"text":" "}
+{"analysis":[{"lex":"большинство","gr":"S,sg,n,inan=acc"},{"lex":"большинство","gr":"S,sg,n,inan=nom"}],"text":"большинство"}
+{"text":" "}
+{"analysis":[{"lex":"активно","gr":"ADV="}],"text":"активно"}
+{"text":" "}
+{"analysis":[{"lex":"использовать","gr":"V,tran=inpraes,abl,pl,partcp,plen,ipf,pass"},{"lex":"использовать","gr":"V,tran=inpraes,acc,pl,partcp,plen,ipf,pass,anim"},{"lex":"использовать","gr":"V,tran=inpraes,gen,pl,partcp,plen,ipf,pass"}],"text":"используемых"}
+{"text":" "}
+{"analysis":[{"lex":"платформа","gr":"S,f,inan=gen,pl"}],"text":"платформ"}
+{"text":". "}
+{"text":"\\s"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"text":" "}
+{"analysis":[{"lex":"распространяться","gr":"V,intr=inpraes,sg,indic,3p,ipf"}],"text":"распространяется"}
+{"text":" "}
+{"analysis":[{"lex":"под","gr":"PR="}],"text":"под"}
+{"text":" "}
+{"analysis":[{"lex":"свободный","gr":"A=abl,sg,plen,f"},{"lex":"свободный","gr":"A=dat,sg,plen,f"},{"lex":"свободный","gr":"A=gen,sg,plen,f"},{"lex":"свободный","gr":"A=ins,sg,plen,f"}],"text":"свободной"}
+{"text":" "}
+{"analysis":[{"lex":"лицензия","gr":"S,f,inan=ins,sg"}],"text":"лицензией"}
+{"text":" "}
+{"analysis":[],"text":"Python"}
+{"text":" "}
+{"analysis":[],"text":"Software"}
+{"text":" "}
+{"analysis":[],"text":"Foundation"}
+{"text":" "}
+{"analysis":[],"text":"License"}
+{"text":", "}
+{"analysis":[{"lex":"позволять","gr":"V,tran=inpraes,abl,sg,partcp,plen,f,ipf,act"},{"lex":"позволять","gr":"V,tran=inpraes,dat,sg,partcp,plen,f,ipf,act"},{"lex":"позволять","gr":"V,tran=inpraes,gen,sg,partcp,plen,f,ipf,act"},{"lex":"позволять","gr":"V,tran=inpraes,ins,sg,partcp,plen,f,ipf,act"}],"text":"позволяющей"}
+{"text":" "}
+{"analysis":[{"lex":"использовать","gr":"V,tran=inf,ipf"},{"lex":"использовать","gr":"V,tran=inf,pf"}],"text":"использовать"}
+{"text":" "}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=acc"},{"lex":"он","gr":"SPRO,sg,3p,m=gen"}],"text":"его"}
+{"text":" "}
+{"analysis":[{"lex":"без","gr":"PR="}],"text":"без"}
+{"text":" "}
+{"analysis":[{"lex":"ограничение","gr":"S,n,inan=gen,pl"}],"text":"ограничений"}
+{"text":" "}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"text":" "}
+{"analysis":[{"lex":"любой","gr":"APRO=abl,pl"},{"lex":"любой","gr":"APRO=gen,pl"},{"lex":"любой","gr":"APRO=acc,pl,anim"}],"text":"любых"}
+{"text":" "}
+{"analysis":[{"lex":"приложение","gr":"S,n,inan=abl,pl"}],"text":"приложениях"}
+{"text":", "}
+{"analysis":[{"lex":"включая","gr":"PR="}],"text":"включая"}
+{"text":" "}
+{"analysis":[{"lex":"проприетарный","qual":"bastard","gr":"A,plen=nom,pl"},{"lex":"проприетарный","qual":"bastard","gr":"A,plen=acc,pl,inan"}],"text":"проприетарные"}
+{"text":". "}
+{"text":"\\s"}
+{"analysis":[{"lex":"быть","gr":"V,intr=inpraes,sg,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=inpraes,pl,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,1p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,1p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,2p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,2p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,3p,ipf"}],"text":"Есть"}
+{"text":" "}
+{"analysis":[{"lex":"реализация","gr":"S,f,inan=abl,sg"},{"lex":"реализация","gr":"S,f,inan=acc,pl"},{"lex":"реализация","gr":"S,f,inan=dat,sg"},{"lex":"реализация","gr":"S,f,inan=gen,sg"},{"lex":"реализация","gr":"S,f,inan=nom,pl"}],"text":"реализации"}
+{"text":" "}
+{"analysis":[{"lex":"интерпретатор","gr":"S,m,anim=acc,pl"},{"lex":"интерпретатор","gr":"S,m,anim=gen,pl"}],"text":"интерпретаторов"}
+{"text":" "}
+{"analysis":[{"lex":"для","gr":"PR="}],"text":"для"}
+{"text":" "}
+{"analysis":[],"text":"JVM"}
+{"text":" ("}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"text":" "}
+{"analysis":[{"lex":"возможность","gr":"S,f,inan=ins,sg"}],"text":"возможностью"}
+{"text":" "}
+{"analysis":[{"lex":"компиляция","gr":"S,f,inan=abl,sg"},{"lex":"компиляция","gr":"S,f,inan=acc,pl"},{"lex":"компиляция","gr":"S,f,inan=dat,sg"},{"lex":"компиляция","gr":"S,f,inan=gen,sg"},{"lex":"компиляция","gr":"S,f,inan=nom,pl"}],"text":"компиляции"}
+{"text":"), "}
+{"analysis":[],"text":"MSIL"}
+{"text":" ("}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"text":" "}
+{"analysis":[{"lex":"возможность","gr":"S,f,inan=ins,sg"}],"text":"возможностью"}
+{"text":" "}
+{"analysis":[{"lex":"компиляция","gr":"S,f,inan=abl,sg"},{"lex":"компиляция","gr":"S,f,inan=acc,pl"},{"lex":"компиляция","gr":"S,f,inan=dat,sg"},{"lex":"компиляция","gr":"S,f,inan=gen,sg"},{"lex":"компиляция","gr":"S,f,inan=nom,pl"}],"text":"компиляции"}
+{"text":"), "}
+{"analysis":[],"text":"LLVM"}
+{"text":" "}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"text":" "}
+{"analysis":[{"lex":"другой","gr":"APRO=abl,pl"},{"lex":"другой","gr":"APRO=gen,pl"},{"lex":"другой","gr":"APRO=acc,pl,anim"}],"text":"других"}
+{"text":". "}
+{"text":"\\s"}
+{"analysis":[{"lex":"проект","gr":"S,m,inan=acc,sg"},{"lex":"проект","gr":"S,m,inan=nom,sg"}],"text":"Проект"}
+{"text":" "}
+{"analysis":[],"text":"PyPy"}
+{"text":" "}
+{"analysis":[{"lex":"предлагать","gr":"V,tran=inpraes,sg,indic,3p,ipf"}],"text":"предлагает"}
+{"text":" "}
+{"analysis":[{"lex":"реализация","gr":"S,f,inan=acc,sg"}],"text":"реализацию"}
+{"text":" "}
+{"analysis":[],"text":"Python"}
+{"text":" "}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"text":" "}
+{"analysis":[{"lex":"использование","gr":"S,n,inan=ins,sg"}],"text":"использованием"}
+{"text":" "}
+{"analysis":[],"text":"JIT"}
+{"text":"-"}
+{"analysis":[{"lex":"компиляция","gr":"S,f,inan=abl,sg"},{"lex":"компиляция","gr":"S,f,inan=acc,pl"},{"lex":"компиляция","gr":"S,f,inan=dat,sg"},{"lex":"компиляция","gr":"S,f,inan=gen,sg"},{"lex":"компиляция","gr":"S,f,inan=nom,pl"}],"text":"компиляции"}
+{"text":", "}
+{"analysis":[{"lex":"который","gr":"APRO=nom,sg,f"}],"text":"которая"}
+{"text":" "}
+{"analysis":[{"lex":"значительно","gr":"ADV="}],"text":"значительно"}
+{"text":" "}
+{"analysis":[{"lex":"увеличивать","gr":"V,tran=inpraes,sg,indic,3p,ipf"}],"text":"увеличивает"}
+{"text":" "}
+{"analysis":[{"lex":"скорость","gr":"S,f,inan=acc,sg"},{"lex":"скорость","gr":"S,f,inan=nom,sg"}],"text":"скорость"}
+{"text":" "}
+{"analysis":[{"lex":"выполнение","gr":"S,n,inan=acc,pl"},{"lex":"выполнение","gr":"S,n,inan=gen,sg"},{"lex":"выполнение","gr":"S,n,inan=nom,pl"}],"text":"выполнения"}
+{"text":" "}
+{"analysis":[],"text":"Python"}
+{"text":"-"}
+{"analysis":[{"lex":"программа","gr":"S,f,inan=gen,pl"}],"text":"программ"}
+{"text":"."}
+{"text":"\n"}
+{"text":"\n"}
+{"analysis":[],"text":"Python"}
+{"text":" — "}
+{"analysis":[{"lex":"активно","gr":"ADV="}],"text":"активно"}
+{"text":" "}
+{"analysis":[{"lex":"развиваться","gr":"V,intr=inpraes,acc,sg,partcp,plen,m,ipf,act,inan"},{"lex":"развиваться","gr":"V,intr=inpraes,nom,sg,partcp,plen,m,ipf,act"}],"text":"развивающийся"}
+{"text":" "}
+{"analysis":[{"lex":"язык","gr":"S,m,inan=acc,sg"},{"lex":"язык","gr":"S,m,inan=nom,sg"}],"text":"язык"}
+{"text":" "}
+{"analysis":[{"lex":"программирование","gr":"S,n,inan=acc,pl"},{"lex":"программирование","gr":"S,n,inan=gen,sg"},{"lex":"программирование","gr":"S,n,inan=nom,pl"}],"text":"программирования"}
+{"text":", "}
+{"analysis":[{"lex":"новый","gr":"A=acc,pl,plen,inan"},{"lex":"новый","gr":"A=nom,pl,plen"}],"text":"новые"}
+{"text":" "}
+{"analysis":[{"lex":"версия","gr":"S,f,inan=abl,sg"},{"lex":"версия","gr":"S,f,inan=acc,pl"},{"lex":"версия","gr":"S,f,inan=dat,sg"},{"lex":"версия","gr":"S,f,inan=gen,sg"},{"lex":"версия","gr":"S,f,inan=nom,pl"}],"text":"версии"}
+{"text":" ("}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"text":" "}
+{"analysis":[{"lex":"добавление","gr":"S,n,inan=ins,sg"}],"text":"добавлением"}
+{"text":"/"}
+{"analysis":[{"lex":"изменение","gr":"S,n,inan=ins,sg"}],"text":"изменением"}
+{"text":" "}
+{"analysis":[{"lex":"языковой","gr":"A=abl,pl,plen"},{"lex":"языковой","gr":"A=acc,pl,plen,anim"},{"lex":"языковой","gr":"A=gen,pl,plen"}],"text":"языковых"}
+{"text":" "}
+{"analysis":[{"lex":"свойство","gr":"S,n,inan=gen,pl"}],"text":"свойств"}
+{"text":") "}
+{"analysis":[{"lex":"выходить","gr":"V,intr=inpraes,pl,indic,3p,ipf"}],"text":"выходят"}
+{"text":" "}
+{"analysis":[{"lex":"примерно","gr":"ADV="}],"text":"примерно"}
+{"text":" "}
+{"analysis":[{"lex":"раз","gr":"S,m,inan=acc,sg"},{"lex":"раз","gr":"S,m,inan=gen,pl"},{"lex":"раз","gr":"S,m,inan=nom,sg"}],"text":"раз"}
+{"text":" "}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"text":" "}
+{"analysis":[{"lex":"два","gr":"NUM=acc,m,inan"},{"lex":"два","gr":"NUM=nom,m"},{"lex":"два","gr":"NUM=acc,n"},{"lex":"два","gr":"NUM=nom,n"}],"text":"два"}
+{"text":" "}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"text":" "}
+{"analysis":[{"lex":"половина","gr":"S,f,inan=ins,sg"}],"text":"половиной"}
+{"text":" "}
+{"analysis":[{"lex":"год","gr":"S,m,inan=acc,pl"},{"lex":"год","gr":"S,m,inan=gen,sg"},{"lex":"год","gr":"S,m,inan=nom,pl"}],"text":"года"}
+{"text":". "}
+{"text":"\\s"}
+{"analysis":[{"lex":"вследствие","gr":"PR="}],"text":"Вследствие"}
+{"text":" "}
+{"analysis":[{"lex":"это","gr":"SPRO,sg,n,inan=gen"}],"text":"этого"}
+{"text":" "}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"text":" "}
+{"analysis":[{"lex":"некоторый","gr":"APRO=abl,pl"},{"lex":"некоторый","gr":"APRO=gen,pl"},{"lex":"некоторый","gr":"APRO=acc,pl,anim"}],"text":"некоторых"}
+{"text":" "}
+{"analysis":[{"lex":"другой","gr":"APRO=abl,pl"},{"lex":"другой","gr":"APRO=gen,pl"},{"lex":"другой","gr":"APRO=acc,pl,anim"}],"text":"других"}
+{"text":" "}
+{"analysis":[{"lex":"причина","gr":"S,f,inan=gen,pl"}],"text":"причин"}
+{"text":" "}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"text":" "}
+{"analysis":[],"text":"Python"}
+{"text":" "}
+{"analysis":[{"lex":"отсутствовать","gr":"V,ipf,intr=inpraes,pl,indic,3p"}],"text":"отсутствуют"}
+{"text":" "}
+{"analysis":[{"lex":"стандарт","gr":"S,m,inan=acc,sg"},{"lex":"стандарт","gr":"S,m,inan=nom,sg"}],"text":"стандарт"}
+{"text":" "}
+{"analysis":[],"text":"ANSI"}
+{"text":", "}
+{"analysis":[],"text":"ISO"}
+{"text":" "}
+{"analysis":[{"lex":"или","gr":"CONJ="}],"text":"или"}
+{"text":" "}
+{"analysis":[{"lex":"другой","gr":"APRO=nom,pl"},{"lex":"другой","gr":"APRO=acc,pl,inan"}],"text":"другие"}
+{"text":" "}
+{"analysis":[{"lex":"официальный","gr":"A=acc,pl,plen,inan"},{"lex":"официальный","gr":"A=nom,pl,plen"}],"text":"официальные"}
+{"text":" "}
+{"analysis":[{"lex":"стандарт","gr":"S,m,inan=acc,pl"},{"lex":"стандарт","gr":"S,m,inan=nom,pl"}],"text":"стандарты"}
+{"text":", "}
+{"analysis":[{"lex":"их","gr":"APRO=abl,pl"},{"lex":"их","gr":"APRO=dat,pl"},{"lex":"их","gr":"APRO=gen,pl"},{"lex":"их","gr":"APRO=ins,pl"},{"lex":"их","gr":"APRO=nom,pl"},{"lex":"их","gr":"APRO=nom,sg,f"},{"lex":"их","gr":"APRO=acc,sg,m,anim"},{"lex":"их","gr":"APRO=gen,sg,m"},{"lex":"их","gr":"APRO=gen,sg,n"},{"lex":"их","gr":"APRO=acc,sg,n"},{"lex":"их","gr":"APRO=nom,sg,n"},{"lex":"их","gr":"APRO=abl,sg,f"},{"lex":"их","gr":"APRO=dat,sg,f"},{"lex":"их","gr":"APRO=gen,sg,f"},{"lex":"их","gr":"APRO=ins,sg,f"},{"lex":"их","gr":"APRO=abl,sg,m"},{"lex":"их","gr":"APRO=abl,sg,n"},{"lex":"их","gr":"APRO=dat,sg,m"},{"lex":"их","gr":"APRO=dat,sg,n"},{"lex":"их","gr":"APRO=acc,sg,f"},{"lex":"их","gr":"APRO=acc,pl,inan"},{"lex":"их","gr":"APRO=acc,sg,m,inan"},{"lex":"их","gr":"APRO=nom,sg,m"},{"lex":"их","gr":"APRO=ins,sg,m"},{"lex":"их","gr":"APRO=ins,sg,n"},{"lex":"их","gr":"APRO=acc,pl,anim"},{"lex":"их","gr":"APRO=abl,pl,n"},{"lex":"их","gr":"APRO=acc,pl,n"},{"lex":"их","gr":"APRO=dat,pl,n"},{"lex":"их","gr":"APRO=gen,pl,n"},{"lex":"их","gr":"APRO=ins,pl,n"},{"lex":"их","gr":"APRO=nom,pl,n"},{"lex":"их","gr":"APRO=abl,pl,m"},{"lex":"их","gr":"APRO=acc,pl,m"},{"lex":"их","gr":"APRO=acc,sg,m"},{"lex":"их","gr":"APRO=dat,pl,m"}],"text":"их"}
+{"text":" "}
+{"analysis":[{"lex":"роль","gr":"S,f,inan=acc,sg"},{"lex":"роль","gr":"S,f,inan=nom,sg"}],"text":"роль"}
+{"text":" "}
+{"analysis":[{"lex":"выполнять","gr":"V,tran=inpraes,sg,indic,3p,ipf"}],"text":"выполняет"}
+{"text":" "}
+{"analysis":[],"text":"CPython"}
+{"text":"."}
+{"text":"\n"}
+{"text":"\n"}
+{"analysis":[{"lex":"разработчик","gr":"S,m,anim=nom,pl"}],"text":"Разработчики"}
+{"text":" "}
+{"analysis":[{"lex":"язык","gr":"S,m,inan=gen,sg"}],"text":"языка"}
+{"text":" "}
+{"analysis":[],"text":"Python"}
+{"text":" "}
+{"analysis":[{"lex":"придерживаться","gr":"V,intr=inpraes,pl,indic,3p,ipf"}],"text":"придерживаются"}
+{"text":" "}
+{"analysis":[{"lex":"определенный","gr":"A=abl,sg,plen,f"},{"lex":"определенный","gr":"A=dat,sg,plen,f"},{"lex":"определенный","gr":"A=gen,sg,plen,f"},{"lex":"определенный","gr":"A=ins,sg,plen,f"}],"text":"определённой"}
+{"text":" "}
+{"analysis":[{"lex":"философия","gr":"S,f,inan=abl,sg"},{"lex":"философия","gr":"S,f,inan=acc,pl"},{"lex":"философия","gr":"S,f,inan=dat,sg"},{"lex":"философия","gr":"S,f,inan=gen,sg"},{"lex":"философия","gr":"S,f,inan=nom,pl"}],"text":"философии"}
+{"text":" "}
+{"analysis":[{"lex":"программирование","gr":"S,n,inan=acc,pl"},{"lex":"программирование","gr":"S,n,inan=gen,sg"},{"lex":"программирование","gr":"S,n,inan=nom,pl"}],"text":"программирования"}
+{"text":", "}
+{"analysis":[{"lex":"называть","gr":"V,tran=inpraes,abl,sg,partcp,plen,f,ipf,pass"},{"lex":"называть","gr":"V,tran=inpraes,dat,sg,partcp,plen,f,ipf,pass"},{"lex":"называть","gr":"V,tran=inpraes,gen,sg,partcp,plen,f,ipf,pass"},{"lex":"называть","gr":"V,tran=inpraes,ins,sg,partcp,plen,f,ipf,pass"}],"text":"называемой"}
+{"text":" «"}
+{"analysis":[],"text":"The"}
+{"text":" "}
+{"analysis":[],"text":"Zen"}
+{"text":" "}
+{"analysis":[],"text":"of"}
+{"text":" "}
+{"analysis":[],"text":"Python"}
+{"text":"» («"}
+{"analysis":[{"lex":"дзен","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Дзен"}
+{"text":" "}
+{"analysis":[{"lex":"питон","gr":"S,m,anim=acc,sg"},{"lex":"питон","gr":"S,m,anim=gen,sg"}],"text":"Питона"}
+{"text":"», "}
+{"analysis":[{"lex":"или","gr":"CONJ="}],"text":"или"}
+{"text":" «"}
+{"analysis":[{"lex":"дзен","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Дзен"}
+{"text":" "}
+{"analysis":[{"lex":"пайтон","qual":"bastard","gr":"S,famn,m,anim=acc,sg"},{"lex":"пайтон","qual":"bastard","gr":"S,famn,m,anim=gen,sg"}],"text":"Пайтона"}
+{"text":"»)"}
+{"text":". "}
+{"text":"\\s"}
+{"analysis":[{"lex":"ее","gr":"APRO=abl,pl"},{"lex":"ее","gr":"APRO=dat,pl"},{"lex":"ее","gr":"APRO=gen,pl"},{"lex":"ее","gr":"APRO=ins,pl"},{"lex":"ее","gr":"APRO=nom,pl"},{"lex":"ее","gr":"APRO=nom,sg,f"},{"lex":"ее","gr":"APRO=acc,sg,m,anim"},{"lex":"ее","gr":"APRO=gen,sg,m"},{"lex":"ее","gr":"APRO=gen,sg,n"},{"lex":"ее","gr":"APRO=acc,sg,n"},{"lex":"ее","gr":"APRO=nom,sg,n"},{"lex":"ее","gr":"APRO=abl,sg,f"},{"lex":"ее","gr":"APRO=dat,sg,f"},{"lex":"ее","gr":"APRO=gen,sg,f"},{"lex":"ее","gr":"APRO=ins,sg,f"},{"lex":"ее","gr":"APRO=abl,sg,m"},{"lex":"ее","gr":"APRO=abl,sg,n"},{"lex":"ее","gr":"APRO=dat,sg,m"},{"lex":"ее","gr":"APRO=dat,sg,n"},{"lex":"ее","gr":"APRO=acc,sg,f"},{"lex":"ее","gr":"APRO=acc,pl,inan"},{"lex":"ее","gr":"APRO=acc,sg,m,inan"},{"lex":"ее","gr":"APRO=nom,sg,m"},{"lex":"ее","gr":"APRO=ins,sg,m"},{"lex":"ее","gr":"APRO=ins,sg,n"},{"lex":"ее","gr":"APRO=acc,pl,anim"},{"lex":"ее","gr":"APRO=abl,pl,n"},{"lex":"ее","gr":"APRO=acc,pl,n"},{"lex":"ее","gr":"APRO=dat,pl,n"},{"lex":"ее","gr":"APRO=gen,pl,n"},{"lex":"ее","gr":"APRO=ins,pl,n"},{"lex":"ее","gr":"APRO=nom,pl,n"},{"lex":"ее","gr":"APRO=abl,pl,m"},{"lex":"ее","gr":"APRO=acc,pl,m"},{"lex":"ее","gr":"APRO=acc,sg,m"},{"lex":"ее","gr":"APRO=dat,pl,m"}],"text":"Её"}
+{"text":" "}
+{"analysis":[{"lex":"текст","gr":"S,m,inan=acc,sg"},{"lex":"текст","gr":"S,m,inan=nom,sg"}],"text":"текст"}
+{"text":" "}
+{"analysis":[{"lex":"выдаваться","gr":"V,intr=inpraes,sg,indic,3p,ipf"}],"text":"выдаётся"}
+{"text":" "}
+{"analysis":[{"lex":"интерпретатор","gr":"S,m,inan=ins,sg"}],"text":"интерпретатором"}
+{"text":" "}
+{"analysis":[],"text":"Python"}
+{"text":" "}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"text":" "}
+{"analysis":[{"lex":"команда","gr":"S,f,inan=abl,sg"},{"lex":"команда","gr":"S,f,inan=dat,sg"}],"text":"команде"}
+{"text":" "}
+{"analysis":[],"text":"import"}
+{"text":" "}
+{"analysis":[],"text":"this"}
+{"text":" ("}
+{"analysis":[{"lex":"работать","gr":"V,ipf,intr=inpraes,sg,indic,3p"}],"text":"работает"}
+{"text":" "}
+{"analysis":[{"lex":"один","gr":"APRO=acc,sg,m,inan"},{"lex":"один","gr":"APRO=nom,sg,m"}],"text":"один"}
+{"text":" "}
+{"analysis":[{"lex":"раз","gr":"S,m,inan=acc,sg"},{"lex":"раз","gr":"S,m,inan=gen,pl"},{"lex":"раз","gr":"S,m,inan=nom,sg"}],"text":"раз"}
+{"text":" "}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"text":" "}
+{"analysis":[{"lex":"сессия","gr":"S,f,inan=acc,sg"}],"text":"сессию"}
+{"text":")"}
+{"text":". "}
+{"text":"\\s"}
+{"analysis":[{"lex":"автор","gr":"S,m,anim=ins,sg"}],"text":"Автором"}
+{"text":" "}
+{"analysis":[{"lex":"этот","gr":"APRO=abl,sg,f"},{"lex":"этот","gr":"APRO=dat,sg,f"},{"lex":"этот","gr":"APRO=gen,sg,f"},{"lex":"этот","gr":"APRO=ins,sg,f"}],"text":"этой"}
+{"text":" "}
+{"analysis":[{"lex":"философия","gr":"S,f,inan=abl,sg"},{"lex":"философия","gr":"S,f,inan=acc,pl"},{"lex":"философия","gr":"S,f,inan=dat,sg"},{"lex":"философия","gr":"S,f,inan=gen,sg"},{"lex":"философия","gr":"S,f,inan=nom,pl"}],"text":"философии"}
+{"text":" "}
+{"analysis":[{"lex":"считаться","gr":"V,ipf,intr=inpraes,sg,indic,3p"}],"text":"считается"}
+{"text":" "}
+{"analysis":[{"lex":"тим","gr":"S,persn,m,anim=nom,sg"}],"text":"Тим"}
+{"text":" "}
+{"analysis":[{"lex":"петерс","gr":"S,persn,m,anim=nom,sg"}],"text":"Петерс"}
+{"text":" ("}
+{"analysis":[],"text":"Tim"}
+{"text":" "}
+{"analysis":[],"text":"Peters"}
+{"text":")"}
+{"text":"."}
+{"text":"\n"}
+{"text":"\n"}
+{"analysis":[{"lex":"текст","gr":"S,m,inan=acc,sg"},{"lex":"текст","gr":"S,m,inan=nom,sg"}],"text":"Текст"}
+{"text":" "}
+{"analysis":[{"lex":"философия","gr":"S,f,inan=abl,sg"},{"lex":"философия","gr":"S,f,inan=acc,pl"},{"lex":"философия","gr":"S,f,inan=dat,sg"},{"lex":"философия","gr":"S,f,inan=gen,sg"},{"lex":"философия","gr":"S,f,inan=nom,pl"}],"text":"философии"}
+{"text":":\n"}
+{"text":"\n"}
+{"analysis":[{"lex":"красивый","gr":"A=acc,sg,plen,n"},{"lex":"красивый","gr":"A=nom,sg,plen,n"}],"text":"Красивое"}
+{"text":" "}
+{"analysis":[{"lex":"хорошо","gr":"ADV=comp,parenth"}],"text":"лучше"}
+{"text":", "}
+{"analysis":[{"lex":"чем","gr":"CONJ="}],"text":"чем"}
+{"text":" "}
+{"analysis":[{"lex":"уродливый","gr":"A=acc,sg,plen,n"},{"lex":"уродливый","gr":"A=nom,sg,plen,n"}],"text":"уродливое"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"явный","gr":"A=acc,sg,plen,n"},{"lex":"явный","gr":"A=nom,sg,plen,n"}],"text":"Явное"}
+{"text":" "}
+{"analysis":[{"lex":"хорошо","gr":"ADV=comp,parenth"}],"text":"лучше"}
+{"text":", "}
+{"analysis":[{"lex":"чем","gr":"CONJ="}],"text":"чем"}
+{"text":" "}
+{"analysis":[{"lex":"неявный","gr":"A=acc,sg,plen,n"},{"lex":"неявный","gr":"A=nom,sg,plen,n"}],"text":"неявное"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"простой","gr":"A=acc,sg,plen,n"},{"lex":"простой","gr":"A=nom,sg,plen,n"}],"text":"Простое"}
+{"text":" "}
+{"analysis":[{"lex":"хорошо","gr":"ADV=comp,parenth"}],"text":"лучше"}
+{"text":", "}
+{"analysis":[{"lex":"чем","gr":"CONJ="}],"text":"чем"}
+{"text":" "}
+{"analysis":[{"lex":"сложный","gr":"A=acc,sg,plen,n"},{"lex":"сложный","gr":"A=nom,sg,plen,n"}],"text":"сложное"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"сложный","gr":"A=acc,sg,plen,n"},{"lex":"сложный","gr":"A=nom,sg,plen,n"}],"text":"Сложное"}
+{"text":" "}
+{"analysis":[{"lex":"хорошо","gr":"ADV=comp,parenth"}],"text":"лучше"}
+{"text":", "}
+{"analysis":[{"lex":"чем","gr":"CONJ="}],"text":"чем"}
+{"text":" "}
+{"analysis":[{"lex":"запутанный","gr":"A=acc,sg,plen,n"},{"lex":"запутанный","gr":"A=nom,sg,plen,n"}],"text":"запутанное"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"плоский","gr":"A=acc,sg,plen,n"},{"lex":"плоский","gr":"A=nom,sg,plen,n"}],"text":"Плоское"}
+{"text":" "}
+{"analysis":[{"lex":"хороший","gr":"A=comp"}],"text":"лучше"}
+{"text":", "}
+{"analysis":[{"lex":"чем","gr":"CONJ="}],"text":"чем"}
+{"text":" "}
+{"analysis":[{"lex":"вкладывать","gr":"V,tran=praet,acc,sg,partcp,plen,n,pf,pass"},{"lex":"вкладывать","gr":"V,tran=praet,nom,sg,partcp,plen,n,pf,pass"}],"text":"вложенное"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"разрежать","gr":"V=praet,acc,sg,partcp,plen,n,pf,pass,tran"},{"lex":"разрежать","gr":"V=praet,nom,sg,partcp,plen,n,pf,pass,tran"}],"text":"Разреженное"}
+{"text":" "}
+{"analysis":[{"lex":"хорошо","gr":"ADV=comp,parenth"}],"text":"лучше"}
+{"text":", "}
+{"analysis":[{"lex":"чем","gr":"CONJ="}],"text":"чем"}
+{"text":" "}
+{"analysis":[{"lex":"плотный","gr":"A=acc,sg,plen,n"},{"lex":"плотный","gr":"A=nom,sg,plen,n"}],"text":"плотное"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"читаемость","gr":"S,f,inan=acc,sg"},{"lex":"читаемость","gr":"S,f,inan=nom,sg"}],"text":"Читаемость"}
+{"text":" "}
+{"analysis":[{"lex":"иметь","gr":"V,ipf,tran=inpraes,sg,indic,3p"}],"text":"имеет"}
+{"text":" "}
+{"analysis":[{"lex":"значение","gr":"S,n,inan=acc,sg"},{"lex":"значение","gr":"S,n,inan=nom,sg"}],"text":"значение"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"особый","gr":"A=acc,pl,plen,inan"},{"lex":"особый","gr":"A=nom,pl,plen"}],"text":"Особые"}
+{"text":" "}
+{"analysis":[{"lex":"случай","gr":"S,m,inan=acc,pl"},{"lex":"случай","gr":"S,m,inan=nom,pl"}],"text":"случаи"}
+{"text":" "}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"text":" "}
+{"analysis":[{"lex":"настолько","gr":"ADV="}],"text":"настолько"}
+{"text":" "}
+{"analysis":[{"lex":"особый","gr":"A=acc,pl,plen,inan"},{"lex":"особый","gr":"A=nom,pl,plen"}],"text":"особые"}
+{"text":", "}
+{"analysis":[{"lex":"чтобы","gr":"CONJ="}],"text":"чтобы"}
+{"text":" "}
+{"analysis":[{"lex":"нарушать","gr":"V,tran=inf,ipf"}],"text":"нарушать"}
+{"text":" "}
+{"analysis":[{"lex":"правило","gr":"S,n,inan=acc,pl"},{"lex":"правило","gr":"S,n,inan=gen,sg"},{"lex":"правило","gr":"S,n,inan=nom,pl"}],"text":"правила"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"при","gr":"PR="}],"text":"При"}
+{"text":" "}
+{"analysis":[{"lex":"это","gr":"SPRO,sg,n,inan=abl"}],"text":"этом"}
+{"text":" "}
+{"analysis":[{"lex":"практичность","gr":"S,f,inan=acc,sg"},{"lex":"практичность","gr":"S,f,inan=nom,sg"}],"text":"практичность"}
+{"text":" "}
+{"analysis":[{"lex":"важный","gr":"A=comp"}],"text":"важнее"}
+{"text":" "}
+{"analysis":[{"lex":"безупречность","gr":"S,f,inan=abl,sg"},{"lex":"безупречность","gr":"S,f,inan=acc,pl"},{"lex":"безупречность","gr":"S,f,inan=dat,sg"},{"lex":"безупречность","gr":"S,f,inan=gen,sg"},{"lex":"безупречность","gr":"S,f,inan=nom,pl"}],"text":"безупречности"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"ошибка","gr":"S,f,inan=acc,pl"},{"lex":"ошибка","gr":"S,f,inan=gen,sg"},{"lex":"ошибка","gr":"S,f,inan=nom,pl"}],"text":"Ошибки"}
+{"text":" "}
+{"analysis":[{"lex":"никогда","gr":"ADVPRO="}],"text":"никогда"}
+{"text":" "}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"text":" "}
+{"analysis":[{"lex":"должный","gr":"A=pl,brev"}],"text":"должны"}
+{"text":" "}
+{"analysis":[{"lex":"замалчиваться","gr":"V,ipf,intr=inf"}],"text":"замалчиваться"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"если","gr":"CONJ="}],"text":"Если"}
+{"text":" "}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"text":" "}
+{"analysis":[{"lex":"замалчиваться","gr":"V,ipf,intr=inpraes,pl,indic,3p"}],"text":"замалчиваются"}
+{"text":" "}
+{"analysis":[{"lex":"явно","gr":"ADV="}],"text":"явно"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"встречать","gr":"V,tran=praet,ger,pf"}],"text":"Встретив"}
+{"text":" "}
+{"analysis":[{"lex":"двусмысленность","gr":"S,f,inan=acc,sg"},{"lex":"двусмысленность","gr":"S,f,inan=nom,sg"}],"text":"двусмысленность"}
+{"text":", "}
+{"analysis":[{"lex":"отбрасывать","gr":"V=sg,imper,2p,pf"}],"text":"отбрось"}
+{"text":" "}
+{"analysis":[{"lex":"искушение","gr":"S,n,inan=acc,sg"},{"lex":"искушение","gr":"S,n,inan=nom,sg"}],"text":"искушение"}
+{"text":" "}
+{"analysis":[{"lex":"угадывать","gr":"V,tran=inf,pf"}],"text":"угадать"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"должный","gr":"A=sg,brev,m"}],"text":"Должен"}
+{"text":" "}
+{"analysis":[{"lex":"существовать","gr":"V,ipf,intr=inf"}],"text":"существовать"}
+{"text":" "}
+{"analysis":[{"lex":"один","gr":"APRO=acc,sg,m,inan"},{"lex":"один","gr":"APRO=nom,sg,m"}],"text":"один"}
+{"text":" — "}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"text":", "}
+{"analysis":[{"lex":"желательно","gr":"ADV="}],"text":"желательно"}
+{"text":", "}
+{"analysis":[{"lex":"только","gr":"PART="}],"text":"только"}
+{"text":" "}
+{"analysis":[{"lex":"один","gr":"ANUM=acc,sg,m,inan"},{"lex":"один","gr":"ANUM=nom,sg,m"}],"text":"один"}
+{"text":" — "}
+{"analysis":[{"lex":"очевидный","gr":"A=acc,sg,plen,m,inan"},{"lex":"очевидный","gr":"A=nom,sg,plen,m"}],"text":"очевидный"}
+{"text":" "}
+{"analysis":[{"lex":"способ","gr":"S,m,inan=acc,sg"},{"lex":"способ","gr":"S,m,inan=nom,sg"}],"text":"способ"}
+{"text":" "}
+{"analysis":[{"lex":"сделать","gr":"V,pf,tran=inf"}],"text":"сделать"}
+{"text":" "}
+{"analysis":[{"lex":"это","gr":"SPRO,sg,n,inan=acc"},{"lex":"это","gr":"SPRO,sg,n,inan=nom"}],"text":"это"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"хотя","gr":"CONJ="}],"text":"Хотя"}
+{"text":" "}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"text":" "}
+{"analysis":[{"lex":"поначалу","gr":"ADV="}],"text":"поначалу"}
+{"text":" "}
+{"analysis":[{"lex":"мочь","gr":"V,ipf,intr=inpraes,sg,indic,3p"}],"text":"может"}
+{"text":" "}
+{"analysis":[{"lex":"быть","gr":"V,intr=inf,ipf"}],"text":"быть"}
+{"text":" "}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"text":" "}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"text":" "}
+{"analysis":[{"lex":"очевидный","gr":"A=sg,brev,m"}],"text":"очевиден"}
+{"text":", "}
+{"analysis":[{"lex":"если","gr":"CONJ="}],"text":"если"}
+{"text":" "}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=nom"}],"text":"вы"}
+{"text":" "}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"text":" "}
+{"analysis":[{"lex":"голландец","gr":"S,m,anim=nom,sg"}],"text":"голландец"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"сейчас","gr":"ADV="}],"text":"Сейчас"}
+{"text":" "}
+{"analysis":[{"lex":"хорошо","gr":"ADV=comp,parenth"}],"text":"лучше"}
+{"text":", "}
+{"analysis":[{"lex":"чем","gr":"CONJ="}],"text":"чем"}
+{"text":" "}
+{"analysis":[{"lex":"никогда","gr":"ADVPRO="}],"text":"никогда"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"хотя","gr":"CONJ="}],"text":"Хотя"}
+{"text":" "}
+{"analysis":[{"lex":"никогда","gr":"ADVPRO="}],"text":"никогда"}
+{"text":" "}
+{"analysis":[{"lex":"зачастую","gr":"ADV="}],"text":"зачастую"}
+{"text":" "}
+{"analysis":[{"lex":"хорошо","gr":"ADV=comp,parenth"}],"text":"лучше"}
+{"text":", "}
+{"analysis":[{"lex":"чем","gr":"CONJ="}],"text":"чем"}
+{"text":" "}
+{"analysis":[{"lex":"прямо","gr":"PART="}],"text":"прямо"}
+{"text":" "}
+{"analysis":[{"lex":"сейчас","gr":"ADV="}],"text":"сейчас"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"если","gr":"CONJ="}],"text":"Если"}
+{"text":" "}
+{"analysis":[{"lex":"реализация","gr":"S,f,inan=acc,sg"}],"text":"реализацию"}
+{"text":" "}
+{"analysis":[{"lex":"сложно","gr":"ADV="}],"text":"сложно"}
+{"text":" "}
+{"analysis":[{"lex":"объяснять","gr":"V,tran=inf,pf"}],"text":"объяснить"}
+{"text":" — "}
+{"analysis":[{"lex":"идея","gr":"S,f,inan=nom,sg"}],"text":"идея"}
+{"text":" "}
+{"analysis":[{"lex":"плохой","gr":"A=sg,brev,f"}],"text":"плоха"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"если","gr":"CONJ="}],"text":"Если"}
+{"text":" "}
+{"analysis":[{"lex":"реализация","gr":"S,f,inan=acc,sg"}],"text":"реализацию"}
+{"text":" "}
+{"analysis":[{"lex":"легко","gr":"ADV="}],"text":"легко"}
+{"text":" "}
+{"analysis":[{"lex":"объяснять","gr":"V,tran=inf,pf"}],"text":"объяснить"}
+{"text":" — "}
+{"analysis":[{"lex":"идея","gr":"S,f,inan=nom,sg"}],"text":"идея"}
+{"text":", "}
+{"analysis":[{"lex":"возможно","gr":"ADV,parenth="}],"text":"возможно"}
+{"text":", "}
+{"analysis":[{"lex":"хороший","gr":"A=sg,brev,f"}],"text":"хороша"}
+{"text":"."}
+{"text":"\n"}
+{"analysis":[{"lex":"пространство","gr":"S,n,inan=acc,pl"},{"lex":"пространство","gr":"S,n,inan=gen,sg"},{"lex":"пространство","gr":"S,n,inan=nom,pl"}],"text":"Пространства"}
+{"text":" "}
+{"analysis":[{"lex":"имя","gr":"S,n,inan=gen,pl"}],"text":"имён"}
+{"text":" — "}
+{"analysis":[{"lex":"отличный","gr":"A=nom,sg,plen,f"}],"text":"отличная"}
+{"text":" "}
+{"analysis":[{"lex":"штука","gr":"S,f,inan=nom,sg"}],"text":"штука"}
+{"text":"! "}
+{"text":"\\s"}
+{"analysis":[{"lex":"быть","gr":"V,intr=inpraes,pl,indic,1p"},{"lex":"быть","gr":"V,intr=pl,imper,1p"}],"text":"Будем"}
+{"text":" "}
+{"analysis":[{"lex":"делать","gr":"V,ipf,tran=inf"}],"text":"делать"}
+{"text":" "}
+{"analysis":[{"lex":"они","gr":"SPRO,pl=acc"},{"lex":"они","gr":"SPRO,pl=gen"}],"text":"их"}
+{"text":" "}
+{"analysis":[{"lex":"много","gr":"ADV=comp"}],"text":"побольше"}
+{"text":"!"}
+{"text":"\n"}
