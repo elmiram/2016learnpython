@@ -99,7 +99,7 @@
     <td>20.фев ПН</td>
     <td>09.00</td>
     <td>7 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/7%20%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8.ipynb">Про функции</a></td>
-    <td></td>
+    <td>28.фев</td>
     <td></td>
     <td></td>
     <td>
@@ -107,8 +107,8 @@
   </tr>
   <tr>
     <td>21.фев ВТ</td>
-    <td>16.40</td>
-    <td>8</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td>09.00</td>
     <td>6 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/7%20%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8.ipynb">Про функции</a></td>
@@ -118,7 +118,7 @@
   <tr>
     <td>28.фев ВТ</td>
     <td>09.00<br>13.40</td>
-    <td>9 <br>10 </td>
+    <td>8<br>9 </td>
     <td></td>
     <td></td>
     <td></td>
@@ -137,8 +137,8 @@
   </tr>
   <tr>
     <td>07.мар ВТ</td>
-    <td>16.40</td>
-    <td>11</td>
+    <td>13.40<br>16.40</td>
+    <td>10<br>11</td>
     <td></td>
     <td>09.00</td>
     <td>8</td>
