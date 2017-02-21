@@ -78,7 +78,7 @@
     <td></td>
     <td>09.00</td>
     <td>4 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/5.Linked%20list.md">Связные списки</a>,  <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/4%20Stacks%26Queues.md">Стеки и очереди</a></td>
-    <td> оба дз на 21 фев
+    <td> оба дз на 27 фев
 </td>
   </tr>
   <tr><td colspan="7">Что будет на контрольной:<br> 
