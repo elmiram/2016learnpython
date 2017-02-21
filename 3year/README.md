@@ -112,7 +112,7 @@
     <td></td>
     <td>09.00</td>
     <td>6 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/7%20%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8.ipynb">Про функции</a></td>
-    <td>
+    <td> 6 мар
 </td>
   </tr>
   <tr>
