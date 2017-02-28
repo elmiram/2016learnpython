@@ -118,7 +118,7 @@
   <tr>
     <td>28.фев ВТ</td>
     <td>09.00<br>13.40</td>
-    <td>8<br>9 </td>
+    <td>8 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/8%20Collections.ipynb">Collections</a><br>9 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/9%20Itertools%2C%20Comprehensions%2C%20Generators.ipynb">Itertools, comprehensions, generators</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -131,7 +131,7 @@
     <td></td>
     <td></td>
     <td>09.00</td>
-    <td>7</td>
+    <td>7 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/8%20Collections.ipynb">Collections</a></td>
     <td>
 </td>
   </tr>
@@ -141,7 +141,7 @@
     <td>10<br>11</td>
     <td></td>
     <td>09.00</td>
-    <td>8</td>
+    <td>8 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/9%20Itertools%2C%20Comprehensions%2C%20Generators.ipynb">Itertools, comprehensions, generators</a></td>
     <td>
 </td>
   </tr>
