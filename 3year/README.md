@@ -139,11 +139,13 @@
     <td>07.мар ВТ</td>
     <td>13.40<br>16.40</td>
     <td>10 Тестирование<br>11 Тренировочная работа</td>
-    <td>14 мар<br> Доп.дз 14 мар</td>
+    <td>14 мар</td>
     <td>09.00</td>
     <td>8 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/9%20Itertools%2C%20Comprehensions%2C%20Generators.ipynb">Itertools, comprehensions, generators</a></td>
     <td>
 </td>
+  </tr>
+   <tr><td colspan="7"  align="center">Бонусное ДЗ (для повышения оценки). Дедлайн - 20 марта.<br> 
   </tr>
   <tr>
     <td>13.мар ПН</td>
@@ -152,7 +154,7 @@
     <td></td>
     <td>09.00</td>
     <td>9 Тестирование</td>
-    <td> 20 мар <br> Доп.дз 20 мар
+    <td> 20 мар 
 </td>
   </tr>
   <tr>
