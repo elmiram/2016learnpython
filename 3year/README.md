@@ -138,7 +138,7 @@
   <tr>
     <td>07.мар ВТ</td>
     <td>13.40<br>16.40</td>
-    <td>10<br>11</td>
+    <td>10 Тестирование<br>11 Тренировочная работа</td>
     <td></td>
     <td>09.00</td>
     <td>8 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/9%20Itertools%2C%20Comprehensions%2C%20Generators.ipynb">Itertools, comprehensions, generators</a></td>
@@ -151,7 +151,7 @@
     <td></td>
     <td></td>
     <td>09.00</td>
-    <td>9</td>
+    <td>9 Тестирование</td>
     <td>
 </td>
   </tr>
@@ -161,7 +161,7 @@
     <td>12 Контрольная</td>
     <td></td>
     <td>16.40</td>
-    <td>10</td>
+    <td>10 Тренировочная работа</td>
     <td>
 </td>
   </tr>
