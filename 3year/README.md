@@ -138,7 +138,7 @@
   <tr>
     <td>07.мар ВТ</td>
     <td>13.40<br>16.40</td>
-    <td>10 Тестирование<br>11 Тренировочная работа</td>
+    <td>10 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/10.%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%20%D0%B4%D1%80..ipynb">Тестирование</a>  <br>11 Тренировочная работа</td>
     <td>14 мар</td>
     <td>09.00</td>
     <td>8 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/9%20Itertools%2C%20Comprehensions%2C%20Generators.ipynb">Itertools, comprehensions, generators</a></td>
@@ -153,7 +153,7 @@
     <td></td>
     <td></td>
     <td>09.00</td>
-    <td>9 Тестирование</td>
+    <td>9 <a href="https://github.com/elmiram/2016learnpython/blob/master/3year/10.%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%20%D0%B4%D1%80..ipynb">Тестирование</a>  </td>
     <td> 20 мар 
 </td>
   </tr>
