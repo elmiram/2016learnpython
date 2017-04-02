@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>03.04.2017</td>
-    <td>VK API</td>
+    <td>[VK API](https://github.com/elmiram/2016learnpython/blob/master/VK%20API%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201.ipynb)</td>
     <td></td>
     <td></td>
   </tr>
