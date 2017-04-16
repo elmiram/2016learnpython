@@ -22,8 +22,14 @@
     <td></td>
   </tr>
   <tr>
-    <td>03.04.2017</td>
+    <td>10.04.2017</td>
     <td><a href="https://github.com/elmiram/2016learnpython/blob/master/Matplotlib.ipynb">Matplotlib Intro</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>17.04.2017</td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/matplotlib%2Bvk.md">Matplotlib+VK задания</a></td>
     <td></td>
     <td></td>
   </tr>
