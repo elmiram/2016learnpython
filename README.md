@@ -30,7 +30,7 @@
   <tr>
     <td>17.04.2017</td>
     <td><a href="https://github.com/elmiram/2016learnpython/blob/master/matplotlib%2Bvk.md">Matplotlib+VK задания</a></td>
-    <td></td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/matplotlib+vk+homework.md">Matplotlib+VK <br>ДЗ к 1.05</a></td>
     <td></td>
   </tr>
 
