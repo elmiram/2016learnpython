@@ -31,7 +31,8 @@
     <td>17.04.2017</td>
     <td><a href="https://github.com/elmiram/2016learnpython/blob/master/matplotlib%2Bvk.md">Matplotlib+VK задания</a></td>
     <td><a href="https://github.com/elmiram/2016learnpython/blob/master/matplotlib+vk+homework.md">Matplotlib+VK <br>ДЗ к 1.05</a></td>
-    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/VK%20%2B%20matplotlib.ipynb">Материалы семинара</a></td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/VK%20%2B%20matplotlib.ipynb">Материалы семинара</a><br>
+        <a href="https://github.com/elmiram/2016learnpython/blob/master/Matplotlib%2BVK.ipynb">Решения заданий 1-4</a></td>
   </tr>
 
 
