@@ -40,6 +40,12 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>25.04.2017</td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/TelegramBot1.ipynb">Чатботы. Пишем очень простого бота и выкладываем его на сервер.</a></td>
+    <td></td>
+    <td></td>
+  </tr>
 
 
 </table>
