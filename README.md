@@ -43,7 +43,7 @@
   <tr>
     <td>25.04.2017</td>
     <td><a href="https://github.com/elmiram/2016learnpython/blob/master/TelegramBot1.ipynb">Чатботы. Пишем очень простого бота и выкладываем его на сервер.</a></td>
-    <td>Создать очень простого бота и выложить его на сервер. Ник вашего бота нужно записать в <a href="https://docs.google.com/forms/d/e/1FAIpQLSc5rtveKEKM1336dBelB37JIfVVQ8deRdTIsxkcfDOhyJikjg/viewform?usp=sf_link">форму</a>.<br>ДЗ к 14 мая</td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/telegram_bot.md">Задание про очень простого телеграм-бота</a>.<br>ДЗ к 14 мая</td>
     <td></td>
   </tr>
 
