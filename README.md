@@ -6,6 +6,8 @@
 
 [Список занятий в 1-м и 2-м модулях](https://github.com/elmiram/2016learnpython/blob/master/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F%20%D0%B2%201-%D0%BC%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80%D0%B5.md).
 
+[Темы экзаменационных проектов](https://docs.google.com/spreadsheets/d/16_76-1h9oaRiYugsw3n38_ZbyGVMDD8vzP5xlLvpBIY/edit?usp=sharing)
+
 Занятия в 4-м модуле:
 
 <table>
