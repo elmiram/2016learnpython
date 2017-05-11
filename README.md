@@ -48,6 +48,11 @@
     <td><a href="https://github.com/elmiram/2016learnpython/blob/master/telegram_bot.md">Задание про очень простого телеграм-бота</a>.<br>ДЗ к 14 мая</td>
     <td></td>
   </tr>
-
+  <tr>
+    <td>12.05.2017</td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/TelegramBot2.ipynb">Чатботы 2. Боты посложнее.</a></td>
+    <td></td>
+    <td></td>
+  </tr>
 
 </table>
