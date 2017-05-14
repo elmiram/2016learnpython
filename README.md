@@ -54,5 +54,12 @@
     <td></td>
     <td></td>
   </tr>
+    <tr>
+    <td>15.05.2017</td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/TelegramBot3.ipynb">Чатботы 3. Пример.</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+
 
 </table>
