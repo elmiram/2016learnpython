@@ -63,7 +63,7 @@
     <tr>
     <td>22.05.2017</td>
     <td><a href="https://github.com/elmiram/2016learnpython/blob/master/pymorphy2%2C%20pymystem3.ipynb">Морфологические анализаторы pymorphy2, pymystem3</a></td>
-    <td></td>
+    <td>Задание в конце конспекта про морф. анализаторы. <br/>Дедлайн 2 июня.</td>
     <td></td>
     </tr>
 
