@@ -66,6 +66,12 @@
     <td>Задание в конце конспекта про морф. анализаторы. <br/>Дедлайн 2 июня.</td>
     <td></td>
     </tr>
+    <tr>
+    <td>23.05.2017</td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/Tweepy.ipynb">Tweepy</a></td>
+    <td></td>
+    <td></td>
+    </tr>
 
 
 </table>
