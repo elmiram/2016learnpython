@@ -72,6 +72,12 @@
     <td></td>
     <td></td>
     </tr>
+    <tr>
+    <td>26.05.2017</td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8%20%D0%B8%20%D0%BA%D0%B0%D1%80%D1%82%D1%8B%20%D0%B2%20%D0%B2%D0%B5%D0%B1%D0%B5.md">Google Charts, d3.js, geojson</a><br><a href="https://github.com/elmiram/2016learnpython/blob/master/%D0%93%D1%80%D0%B0%D1%84%D1%8B%2C%20networkx.ipynb">NetworkX</a></td>
+    <td></td>
+    <td></td>
+    </tr>
 
 
 </table>
