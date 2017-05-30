@@ -78,6 +78,11 @@
     <td></td>
     <td></td>
     </tr>
-
+    <tr>
+    <td>30.05.2017</td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/word2vec.ipynb">Gensim, word2vec</a></td>
+    <td></td>
+    <td></td>
+    </tr>
 
 </table>
