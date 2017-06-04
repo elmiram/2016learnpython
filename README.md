@@ -84,5 +84,11 @@
     <td></td>
     <td></td>
     </tr>
+    <tr>
+    <td>05.065.2017</td>
+    <td><a href="https://github.com/elmiram/2016learnpython/blob/master/Heroku.md">Heroku</a></td>
+    <td></td>
+    <td></td>
+    </tr>
 
 </table>
