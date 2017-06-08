@@ -92,3 +92,5 @@
     </tr>
 
 </table>
+
+### [ЧаВо по проектам](https://github.com/elmiram/2016learnpython/blob/master/FAQ.md)
