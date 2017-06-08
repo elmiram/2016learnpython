@@ -8,6 +8,8 @@
 
 [Темы экзаменационных проектов](https://docs.google.com/spreadsheets/d/16_76-1h9oaRiYugsw3n38_ZbyGVMDD8vzP5xlLvpBIY/edit?usp=sharing)
 
+### [ЧаВо по проектам](https://github.com/elmiram/2016learnpython/blob/master/FAQ.md)
+
 Занятия в 4-м модуле:
 
 <table>
@@ -92,5 +94,3 @@
     </tr>
 
 </table>
-
-### [ЧаВо по проектам](https://github.com/elmiram/2016learnpython/blob/master/FAQ.md)
